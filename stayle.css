@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#continer{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    width: 780px;
+    background-color: rgb(243, 226, 199);
+    padding: 10px;
+}
+#g555{
+  
+    position: static;
+    width: 770px;
+    height: 40px;
+    background-image: url("images/nav.png");
+    
+}
+#g555 a{
+   
+    padding: 5px;
+    position: relative;
+    top: 16px;
+    left: 30px;
+    background-image: url("images/menuitem.png");
+    border-bottom: 5px; color: black;
+    border-radius: 5px;
+
+}
+#g555:hover > a{
+    background-color: #CFC;
+}
+#h1h{
+   position: relative;
+   top: -5px;
+   left: 3px;
+    width: 770px;
+    height: 230px;
+    background-image: url("images/header.jpg");
+}
+#b4b{
+    margin: 10px;
+    padding-top: 5px;
+   
+    width: 760px;
+    background-color:white;
+    height: 570px;
+    border-radius: 10px;
+}
+#b1b{
+    position: relative;
+   
+    width: 490px;
+    margin: 10px;
+    background-color: antiquewhite;
+    height: 550px;
+    border-radius: 10px;
+}
+#b1b img{
+    float: left;
+    margin: 10px;
+}
+#b3b{
+    position: relative;
+    left: 500px;
+    top: -560px;
+    height: 535px;
+    margin: 5px;
+    padding: 5px;
+    background-color:white;
+    width: 240px; 
+}
+#b3b img {
+    position: relative;
+    right: 5px;
+}
+#b3b h4{
+    position: relative;
+    left: 20px;
+    top: -38px;
+}
+p{
+    margin: 10px;
+}
+h4{
+    margin: 5px;
+}
+
+footer{
+
+    margin: 5px;
+    position: relative;
+    top: -10px;
+    width: 750 px;
+    background-image: url("images/footer_s.png");
+    height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+footer img{
+    float: left;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#h1h img{
+    position: relative;
+    left: 555px;
+    top: -66px;
+    height: 235px;
+  
+}
+#h1h h1{
+    position: relative;
+    top: 90px;
+    margin: 5px;
+
+}
+#h1h h5{
+    position: relative;
+    top: 90px;
+    margin: 5px;
+
+}
+footer nav a{
+    margin: 5px;
+   
+}
+
